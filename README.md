@@ -28,5 +28,5 @@
 <p><a href="https://docs.microsoft.com/azure/application-gateway/application-gateway-autoscaling-zone-redundant">Autoscaling and Zone-redundant Application Gateway</a></p>
 
 <h2>Service Bus</h2>
-<p><a href="https://azure.microsoft.com/pricing/details/app-service/windows">App Service Pricing</a></p>
+<p><a href="https://docs.microsoft.com/azure/service-bus-messaging/service-bus-queues-topics-subscriptions">Service Bus queues, topics, and subscriptions</a></p>
 
