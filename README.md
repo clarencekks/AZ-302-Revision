@@ -9,6 +9,9 @@
 
 <h2>Virtual Machines</h2>
 <p><a href="https://docs.microsoft.com/azure/virtual-machines/windows/sizes-compute#fsv2-series-sup1sup">Compute optimized virtual machine sizes: Fsv2-series</a></p>
+<p><a href="https://docs.microsoft.com/azure/virtual-network/virtual-machine-network-throughput>Virtual machine network bandwidth</a></p>
+<p><a href="https://docs.microsoft.com/azure/virtual-network/virtual-network-optimize-network-bandwidth>Optimize network throughput for Azure virtual machines</a></p>
+
 
 <h2>Virtual Machine Scale Sets</h2>
 <p><a href="https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-use-availability-zones">Create a virtual machine scale set that uses Availability Zones</a></p>
