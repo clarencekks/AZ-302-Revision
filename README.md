@@ -1,7 +1,7 @@
-# AZ-302-Revision
+# AZ-302 Revision
 Revision Resources For Exam AZ-302 Microsoft Azure Solutions Architect Certification Transition
 
-<h1>Service Fabric</h1>
+<h2>Service Fabric</h2>
 https://docs.microsoft.com/azure/service-fabric/service-fabric-package-apps#create-an-sfpkg
 
 https://azure.microsoft.com/pricing/details/app-service/windows/
