@@ -26,3 +26,7 @@
 <p><a href="https://docs.microsoft.com/azure/application-gateway/ssl-overview">Overview of end to end SSL with Application Gateway</a></p>
 <p><a href="https://docs.microsoft.com/azure/application-gateway/waf-overview">Web application firewall (WAF)</a></p>
 <p><a href="https://docs.microsoft.com/azure/application-gateway/application-gateway-autoscaling-zone-redundant">Autoscaling and Zone-redundant Application Gateway</a></p>
+
+<h2>Service Bus</h2>
+<p><a href="https://azure.microsoft.com/pricing/details/app-service/windows">App Service Pricing</a></p>
+
