@@ -1,25 +1,25 @@
 # AZ-302 Revision
-Revision Resources For Exam <a href="https://www.microsoft.com/learning/exam-AZ-302.aspx" target="_blank">AZ-302 Microsoft Azure Solutions Architect Certification Transition</a>
+Revision Resources For Exam <a href="https://www.microsoft.com/learning/exam-AZ-302.aspx">AZ-302 Microsoft Azure Solutions Architect Certification Transition</a>
 
 <h2>Service Fabric</h2>
-<a href="https://docs.microsoft.com/azure/service-fabric/service-fabric-package-apps#create-an-sfpkg" target="_blank">https://docs.microsoft.com/azure/service-fabric/service-fabric-package-apps#create-an-sfpkg</a>
+<a href="https://docs.microsoft.com/azure/service-fabric/service-fabric-package-apps#create-an-sfpkg">Packaging an application: Create an sfpkg</a>
 
 <h2>App Service</h2>
-https://azure.microsoft.com/pricing/details/app-service/windows/
+<a href="https://azure.microsoft.com/pricing/details/app-service/windows">App Service Pricing</a>
 
 <h2>Virtual Machines</h2>
-https://docs.microsoft.com/azure/virtual-machines/windows/sizes-compute#fsv2-series-sup1sup
+<a href="https://docs.microsoft.com/azure/virtual-machines/windows/sizes-compute#fsv2-series-sup1sup">Compute optimized virtual machine sizes: Fsv2-series</a>
 
 <h2>Virtual Machine Scale Sets</h2>
-https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-use-availability-zones
+<a href="https://docs.microsoft.com/azure/virtual-machine-scale-sets/virtual-machine-scale-sets-use-availability-zones">Create a virtual machine scale set that uses Availability Zones</a>
 
 <h2>API Management</h2>
-https://docs.microsoft.com/azure/api-management/api-management-howto-oauth2
+<a href="https://docs.microsoft.com/azure/api-management/api-management-howto-oauth2">Configure an OAuth 2.0 authorization server in API Management</a>
 
 <h2>SQL DB</h2>
-https://docs.microsoft.com/azure/sql-database/sql-database-long-term-retention
+<a href="https://docs.microsoft.com/azure/sql-database/sql-database-long-term-retention">Store Azure SQL Database backups for up to 10 years</a>
 
 <h2>Application Gateway</h2>
-https://docs.microsoft.com/azure/application-gateway/ssl-overview
-https://docs.microsoft.com/azure/application-gateway/waf-overview
-https://docs.microsoft.com/azure/application-gateway/application-gateway-autoscaling-zone-redundant
+<a href="https://docs.microsoft.com/azure/application-gateway/ssl-overview">Overview of end to end SSL with Application Gateway</a>
+<a href="https://docs.microsoft.com/azure/application-gateway/waf-overview">Web application firewall (WAF)</a>
+<a href="https://docs.microsoft.com/azure/application-gateway/application-gateway-autoscaling-zone-redundant">Autoscaling and Zone-redundant Application Gateway</a>
